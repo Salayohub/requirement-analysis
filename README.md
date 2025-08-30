@@ -39,3 +39,21 @@ Here are three key reasons why it is important:
 
 3. **Ensures Stakeholder Satisfaction**  
    Proper requirement analysis ensures that the final product meets the actual needs of end-users and stakeholders, increasing the likelihood of project success.  
+
+## Key Activities in Requirement Analysis
+The Requirement Analysis process involves several structured activities to ensure clarity and accuracy of requirements. The five key activities are:  
+
+- **Requirement Gathering**  
+  Collecting information about the system from stakeholders, end-users, and business documents to understand their needs and expectations.  
+
+- **Requirement Elicitation**  
+  Engaging with stakeholders through interviews, surveys, workshops, and brainstorming sessions to uncover hidden or implicit requirements.  
+
+- **Requirement Documentation**  
+  Recording the gathered requirements in a clear, structured format (such as Software Requirement Specification – SRS) to provide a reference for development and testing.  
+
+- **Requirement Analysis and Modeling**  
+  Analyzing requirements for feasibility, consistency, and completeness, and representing them using models like use-case diagrams, data flow diagrams, or process flows.  
+
+- **Requirement Validation**  
+  Reviewing and confirming requirements with stakeholders to ensure they are accurate, feasible, and aligned with business objectives before moving to design and development.  
