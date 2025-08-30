@@ -81,4 +81,30 @@ Non-functional requirements describe **how the system should perform**. They def
 - The booking confirmation email must be sent within **30 seconds** of completing a transaction.  
 - The system should be available **99.9% of the time** to ensure reliability.  
 - The system must comply with **GDPR standards** to protect user data privacy.  
-- The user interface should be **mobile-responsive** and accessible according to **WCAG 2.1 standards**.  
+- The user interface should be **mobile-responsive** and accessible according to **WCAG 2.1 standards**.
+
+## Use Case Diagrams
+
+**Definition:**  
+A **Use Case Diagram** is a visual representation of the interactions between different types of users (**actors**) and the system. It helps identify system functionalities (use cases) and illustrates how stakeholders will interact with them.  
+
+**Benefits of Use Case Diagrams:**  
+- Provide a clear understanding of system scope and functionalities.  
+- Help stakeholders and developers communicate effectively.  
+- Serve as a foundation for creating detailed functional requirements.  
+
+**Use Case Diagram for Booking Management System:**  
+
+Actors:  
+- **Customer** (creates and manages bookings)  
+- **Administrator** (manages the system and reporting)  
+- **Payment Gateway** (processes online payments)  
+
+Use Cases:  
+- Create Booking  
+- Update/Cancel Booking  
+- Receive Confirmation (Email/SMS)  
+- Make Payment  
+- View Reports (Admin only)  
+
+![Booking Management Use Case Diagram](alx-booking-uc.png)  
