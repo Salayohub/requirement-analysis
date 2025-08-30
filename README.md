@@ -105,9 +105,11 @@ Use Cases:
 - Update/Cancel Booking  
 - Receive Confirmation (Email/SMS)  
 - Make Payment  
-- View Reports (Admin only)  
+- View Reports (Admin only)
 
-![Booking Management Use Case Diagram](alx-booking-uc.png)  
+
+
+
 
 ## Acceptance Criteria
 
