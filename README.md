@@ -56,4 +56,29 @@ The Requirement Analysis process involves several structured activities to ensur
   Analyzing requirements for feasibility, consistency, and completeness, and representing them using models like use-case diagrams, data flow diagrams, or process flows.  
 
 - **Requirement Validation**  
-  Reviewing and confirming requirements with stakeholders to ensure they are accurate, feasible, and aligned with business objectives before moving to design and development.  
+  Reviewing and confirming requirements with stakeholders to ensure they are accurate, feasible, and aligned with business objectives before moving to design and development.
+
+  ## Types of Requirements
+
+### Functional Requirements
+**Definition:**  
+Functional requirements describe **what the system should do**. They specify the features, behaviors, and operations of the software.  
+
+**Examples for Booking Management Project:**  
+- The system must allow users to **create, view, update, and cancel bookings**.  
+- The system must send **email and SMS confirmations** after a booking is successfully made.  
+- The system must allow administrators to **view booking reports** filtered by date, location, and customer.  
+- The system must process **online payments** securely through multiple payment gateways.  
+
+---
+
+### Non-functional Requirements
+**Definition:**  
+Non-functional requirements describe **how the system should perform**. They define quality attributes such as usability, performance, security, and reliability.  
+
+**Examples for Booking Management Project:**  
+- The system should be able to handle **at least 500 concurrent users** without performance degradation.  
+- The booking confirmation email must be sent within **30 seconds** of completing a transaction.  
+- The system should be available **99.9% of the time** to ensure reliability.  
+- The system must comply with **GDPR standards** to protect user data privacy.  
+- The user interface should be **mobile-responsive** and accessible according to **WCAG 2.1 standards**.  
